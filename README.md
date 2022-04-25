@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Azeez Aregbesola</h1>
-<h3 align="center">A passionate Data Analyst from Nigeria</h3>
+<h3 align="center">I am a data enthusiast who eagerly awaits the arrival of new data to analyze. Data, science, and everything in between pique my interest. 
+</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/w6Afg5fCX8h_wkW1FD2XLMOuKUOXVT9tN2hJWmhl6Rc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.gif">
 
 - 🔭 I’m currently working on [Projects on Zindi](zindi.africa)
