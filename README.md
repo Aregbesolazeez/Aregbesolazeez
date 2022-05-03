@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Projects on Zindi](https://zindi.africa/)
 
-- 👨‍💻 All of my projects are available at [https://aregbesolazeez.github.io/portfolio](https://aregbesolazeez.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://aregbesolazeez.github.io/AzeezAregbesola.github.io/](https://aregbesolazeez.github.io/AzeezAregbesola.github.io/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aregbesolazeez/](https://www.linkedin.com/in/aregbesolazeez/)
 
