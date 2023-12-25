@@ -3,7 +3,7 @@
 Data Analyst <br/>
 Location: L’Aquila, Italy <br/>
 Email: aregbesolazeez@gmail.com <br/>
-Github: [github.com/Aregbesolazeez] <br/>
+Github: github.com/Aregbesolazeez <br/>
 </h4>
 <h4 align="left">Summary: </h4>
 Experienced Data Analyst with a proven track record in conducting insightful data analysis, mining, and visualisation to drive informed business decisions. Expertise in collaborating with cross-functional teams to implement data-driven solutions and designing comprehensive dashboards for senior management. Proficient in utilising SQL and other programming languages to extract and manipulate large datasets, implementing statistical forecasting models, and automating data collection and reporting processes. Adept at providing training, support, and maintenance to ensure data accuracy and completeness. Eager to bring analytical prowess and innovative problem-solving to a dynamic team. 
