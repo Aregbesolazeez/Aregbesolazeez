@@ -1,7 +1,7 @@
 
 <h4 align="center">Azeez Aregbesola <br/>
 Data Analyst <br/>
-Location: L’Aquila, Italy <br/>
+Location: Poland <br/>
 Email: aregbesolazeez@gmail.com <br/>
 Github: github.com/Aregbesolazeez <br/>
 </h4>
